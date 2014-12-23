@@ -1,0 +1,4 @@
+pl:
+  math_captcha:
+    message: 'Niepoprawna captcha'
+    prompt: 'Aby wysłać formularz, wpisz wynik działania matematycznego'

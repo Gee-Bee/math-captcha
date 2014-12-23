@@ -1,0 +1,4 @@
+en:
+  math_captcha:
+    message: 'Wrong captcha'
+    prompt: 'Please enter math operation result to send the form'
