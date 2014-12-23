@@ -30,7 +30,7 @@ module MathCaptcha
     end
 
     def question
-      "#{@a} #{@operator.to_s} #{@b} = ?"
+      "#{@a} #{@operator.to_s} #{@b} = "
     end
 
     protected
